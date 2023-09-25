@@ -1,0 +1,22 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #bbaab8;
+}
+#profil {
+  background-color: #44426e;
+}
+#pendidikan {
+  background-color: #bbaab8;
+}
+#pengalaman {
+  background-color: #44426e;
+}
+#keahlian {
+  background-color: #bbaab8;
+}
+#dokumentasi {
+  background-color: #44426e;
+}
+section {
+  padding-top: 6rem;
+}
